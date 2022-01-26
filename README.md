@@ -4,11 +4,13 @@ References to courses, masters and student projects.
 ## Courses
 [Data-Structures](https://github.com/ceituut/Data-Structures) - [Algorithm-Design](https://github.com/ceituut/Algorithm-Design) - [Data-Base](https://github.com/ceituut/Data-Base) - [Network](https://github.com/ceituut/Network) 
 
+[Compiler](https://github.com/ceituut/Compiler)
+
 [Artificial-Intelligence](https://github.com/ceituut/Artificial-Intelligence) - [Computational-Intelligence](https://github.com/ceituut/Computational-Intelligence) - [Data-Mining](https://github.com/ceituut/Data-Mining) 
 
-[Software-Engineering](https://github.com/ceituut/Software-Engineering) - [Object-Oriented-Development](https://github.com/ceituut/Object-Oriented-Development) 
+[Software-Engineering](https://github.com/ceituut/Software-Engineering) - [Object-Oriented-Development](https://github.com/ceituut/Object-Oriented-Development) - [Cloud-Computing](https://github.com/ceituut/Cloud-Computing)
 
-[Multimedia](https://github.com/ceituut/Multimedia) 
+[Multimedia](https://github.com/ceituut/Multimedia)
 
 ## Student projects
 Link your Bacholar degree final project or best interesting projects here !
