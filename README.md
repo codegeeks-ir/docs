@@ -1,30 +1,31 @@
-# ceituut blog posts
+# وبلاگ انجمن
 
-## How to add my own post to blog ?
+## چطور می تونم پست بنویسم ؟
 
-Please follow this steps :  
-1- Fork _posts repository and create your own branch from `main`. Name the branch like `Add-post-` followed by `your-github-id`.  
-For example I'll name my branch like this : `Add-post-amirihusayn`  
+برای نوشتن پست در وبلاگ انجمن این قدم ها رو دنبال کن:  
 
-2- If your first time to write post, add your bio file as author inside [_authors repository][];
-But how ? Answer is creat a markdown file with name `your-github-id.markdwon`.  
-Your future posts will use this bio file.
+1- این ریپو رو فورک کن.  
 
-3- Your bio file content should be like this :  
-<pre><code>
----
-github_id : amirihusayn
-name: امیر گودرزی
-position: بازیساز مستقل
----
-سلام ! من امیر هستم
-</code></pre>  
-Note : Don't forget to write your github id correct.
+2- شاخه خودت رو از شاخه‌ی 
+`main` 
+جدا کن.
+شاخه ای که جدا میکنی خیلی خوبه که همچین اسمی داشته باشه:  
+`Add-post-id` 
+که 
+`id` 
+در واقع آیدی گیتهاب ات هستش.  
 
-4- Then for adding your own post, simply just create a markdown file inside [_posts repository][].
-It's name should have data and title convention like this : `2022-02-06-post-title.markdown`  
+3- اگه اولین بارت هست که برای وبلاگ پست می نویسی، بیو خودت رو
+داخل ریپوی مربوط به نویسندگان اضافه کن.  
+[ریپوی نویسندگان][]  
 
-5- Your post content should be like this :  
+4- بعد برای اضافه کردن پست کافیه یه فایل 
+`markdown` 
+بسازی که اسمش به صورت قراردادی با تاریخ میلادی آغاز و به عنوان
+پست ختم میشه. یعنی این مدلی:  
+`2022-02-06-post-title.markdown`  
+5- محتوای پستی که می نویسی هم این مدلی میشه:  
+
 <pre><code>
 ---
 layout: post
@@ -36,12 +37,21 @@ author: amirihusayn
 ---
 محتوای پست در اینجا و بعد از مشخصات قرار می گیرد.
 </code></pre>  
-Just edit `title`, `date`, `categories`, `description` and `author`. After these lines you are free to write your post content.  
-Note : Don't forget to write your github id in front of `author` field.  
-6- Commit your changes, push them and finally send pull request.  
 
-## Which subjects can i post ?
-You are free to share experiences, educational references, university or association memories and even your `README.md` of your project !
+یادت هم نره که آیدی گیتهاب ات رو درست بنویسی.
 
-[_authors repository]: https://github.com/ceituut/_authors
+6- در نهایت تغییرات ات رو
+`Commit` 
+کن و برای ما 
+`Pull request`
+بفرست.
+
+## در چه موضوعاتی می تونم پست بنویسم ؟
+
+می تونی تجربیات، منابع آموزشی، نقشه راه، خاطرات انجمن و دانشگاه و حتی
+خیلی خفن تر
+`README.md`
+پروژه باحالت رو به اشتراک بذاری.  
+
+[ریپوی نویسندگان]: https://github.com/ceituut/_authors
 [_posts repository]: https://github.com/ceituut/_posts
