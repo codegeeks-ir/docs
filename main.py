@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
 
-#app.config['UPLOAD_FOLDER']
 app = Flask(__name__)
 app.config['MAX_CONTENT_PATH'] = '10240'
 app.config['UPLOAD_FOLDER'] = '/codes'
