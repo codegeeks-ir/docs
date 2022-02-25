@@ -1,0 +1,24 @@
+name: get profile image
+
+on:
+  push:
+    branches: [ main ]
+
+
+  workflow_dispatch:
+
+jobs:
+
+  getprofile:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+        
+        
+    - name: download profile
+      run: |
+        echo start to download
+        ls -a
