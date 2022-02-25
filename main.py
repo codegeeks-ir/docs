@@ -13,6 +13,9 @@ def index():
 def get_code():
     f = request.files['file']
     f.save(secure_filename(f.filename))
+    lan = request.form['language']
+    name = request.form['name']
+    challenge_name = request.form['challenge_name']
     return 'file uploaded successfully'
 
 @app.route('/GetCode' , methods=['GET'])
