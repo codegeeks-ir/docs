@@ -36,7 +36,6 @@ public class StrangeString
         }
         System.out.println("True");
     }
-
     public static void main(String args[])
     {
         Scanner scan = new Scanner(System.in);
