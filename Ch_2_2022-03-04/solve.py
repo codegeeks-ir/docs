@@ -17,7 +17,6 @@ while inputs[0] != '':
         file_w = open('users.txt','w')
         file_w.write(''.join(lines))
         file_w.close(),file.close()
-        inputs = input().split(' ')
 
     if inputs[0] == 'Find':
         line,f,c,found = " ",False,c+1,0
@@ -33,7 +32,6 @@ while inputs[0] != '':
         if f == False:
             output.append(str(c) + ' No user found') # output
         file.close()
-
     inputs = input().split(' ')
 
 for out_line in output:
