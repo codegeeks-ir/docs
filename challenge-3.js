@@ -1,5 +1,5 @@
 let length;
-let counter = 1;
+let counter = 0;
 let capse = false;
 let isfirstInputInitialized = false;
 let result = [];
@@ -22,8 +22,6 @@ const readline = require('readline').createInterface({
 });
 
 readline.on( 'line', input => {
-    if(length == counter)
-        readline.close();
     if(!isfirstInputInitialized) {
         length = Number(input);
         isfirstInputInitialized = true;
@@ -31,6 +29,8 @@ readline.on( 'line', input => {
     else {
         counter++;
         readPassword(input);
+        if(length == counter)
+            readline.close();
     }
 });
 
