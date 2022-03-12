@@ -11,6 +11,7 @@ while number > 0 :
             caps = 0
         else: 
             caps = 1
+        number -= 1 # added this line
         continue
 
     if caps == 1 :
