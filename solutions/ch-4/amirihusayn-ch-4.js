@@ -42,13 +42,12 @@ function isDieHard(number, min) {
 
 function isPrime(number) {
     let primeFlag = true;
-    let counter = 0;
     if(number == 1)
         return false;
-    for(let index = 1; index <= number; index++) {
-        if(number % index == 0)
-            counter++;
-        if(counter > 2) {
+    if(number == 2)
+        return true;
+    for(let index = 2; index <= number / 2; index ++) {
+        if(number % index == 0) {
             primeFlag = false;
             break;
         }
