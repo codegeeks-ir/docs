@@ -21,6 +21,7 @@ jobs:
     - name: download profile
       run: |
         echo start to download
+        cd events
         VAR0=$(ls -1 |tail -n2 | head -n1)
         VAR1="github.com/"
         VAR2=$(grep github_id "$VAR0" |sed 's/[^"]*"\([^"]*\)".*/\1/')
