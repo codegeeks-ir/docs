@@ -4,7 +4,7 @@ title: "State-Machine in Android/Kotlin"
 date: 2022-04-01 21:15 +0330
 categories: android
 description: "ماشین حالت در اندروید - کاتلین"
-author: Mehdi Ebrahimi
+author: mitiebh
 --- 
 # کار با ماشین-حالت (State-Machine) در اندروید
 امروزه ماشین حالت در میان جامعه توسعه دهندگان اندروید بسیار محبوب شده است.<br>
