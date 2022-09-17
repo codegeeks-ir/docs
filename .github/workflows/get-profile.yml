@@ -32,3 +32,13 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Download github profile image
+
+  triggerUpdate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.MY_SECRET }}
+          repository: ceituut/ceituut.github.io
+          event-type: update-content
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
