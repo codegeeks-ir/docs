@@ -28,6 +28,7 @@ jobs:
         VAR2=$(grep github_id "$VAR0" |sed 's/[^"]*"\([^"]*\)".*/\1/')
         VAR3=".png"
         VAR4="../images/"
+        echo "USERNAME is : $VAR2"
         if [ -f "$VAR4$VAR2$VAR3" ] ; then echo "The image has already been downloaded" ; else wget "$VAR1$VAR2$VAR3" -P  ../images ; fi
         
     - uses: stefanzweifel/git-auto-commit-action@v4
