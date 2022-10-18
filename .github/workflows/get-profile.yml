@@ -27,6 +27,8 @@ jobs:
         VAR1="github.com/"
         VAR2=$(grep github_id "$VAR0" |sed 's/[^"]*"\([^"]*\)".*/\1/')
         VAR3=".png"
+        echo "github id :============:"
+        echo $VAR0
         VAR4="../images/"
         echo "USERNAME is : $VAR2"
         if [ -f "$VAR4$VAR2$VAR3" ] ; then echo "The image has already been downloaded" ; else wget "$VAR1$VAR2$VAR3" -P  ../images ; fi
