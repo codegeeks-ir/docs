@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State-Machine in Android/Kotlin"
-date: 2022-04-01 21:15 +0330
+date: 2022-04-01 21:15
 categories: android
 description: "ماشین حالت در اندروید - کاتلین"
 author: mitiebh
