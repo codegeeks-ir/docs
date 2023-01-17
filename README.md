@@ -1,5 +1,4 @@
 ---
-layout: post
 title: پروژه ها
 permalink: /collections/projects/
 ---
