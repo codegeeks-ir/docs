@@ -49,7 +49,7 @@ title: "نام پست"
 date: 2022-02-06 11:07:38
 categories: category
 description: "شرح مختصر"
-author: amirihusayn
+github_id: amirihusayn
 ---
 محتوای پست در اینجا و بعد از مشخصات قرار می گیرد.
 </code></pre>  
