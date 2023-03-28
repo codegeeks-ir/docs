@@ -5,37 +5,31 @@ let isfirstInputInitialized = false;
 let result = [];
 
 function readPassword(input) {
-    if(input == "CAPS")
-        capse = !capse;
-    else
-    {
-        if(capse)
-            result += input.toUpperCase();
-        else
-            result += input.toLowerCase();
-    }
+  if (input == "CAPS") capse = !capse;
+  else {
+    if (capse) result += input.toUpperCase();
+    else result += input.toLowerCase();
+  }
 }
 
-const readline = require('readline').createInterface({
-    input: process.stdin,
-    output: process.stdout
+const readline = require("readline").createInterface({
+  input: process.stdin,
+  output: process.stdout,
 });
 
-readline.on( 'line', input => {
-    if(!isfirstInputInitialized) {
-        length = Number(input);
-        isfirstInputInitialized = true;
-    }
-    else {
-        counter++;
-        readPassword(input);
-        if(length == counter)
-            readline.close();
-    }
+readline.on("line", (input) => {
+  if (!isfirstInputInitialized) {
+    length = Number(input);
+    isfirstInputInitialized = true;
+  } else {
+    counter++;
+    readPassword(input);
+    if (length == counter) readline.close();
+  }
 });
 
-readline.on( 'close', () => {
-    console.log(result);
+readline.on("close", () => {
+  console.log(result);
 });
 
 // 9
