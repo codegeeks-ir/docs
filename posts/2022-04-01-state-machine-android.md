@@ -3,7 +3,7 @@ title: "State-Machine in Android/Kotlin"
 date: 2022-04-01 21:15
 categories: android
 description: "ماشین حالت در اندروید - کاتلین"
-github_id: mitiebh
+githubID: mitiebh
 --- 
 # کار با ماشین-حالت (State-Machine) در اندروید
 
