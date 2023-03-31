@@ -2,7 +2,7 @@
 title: "آشنایی با مسابقات فتح پرچم"
 lecturer: "پوریا مختاری"
 bio: "دانشجوی مهندسی کامپیوتر"
-github_id: "pouriamokhtari"
+githubID: "pouriamokhtari"
 date: "2022-05-09 14:00:00"
 location: "سالن آمفی تئاتر"
 ---

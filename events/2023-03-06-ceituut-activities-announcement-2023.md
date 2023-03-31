@@ -2,7 +2,7 @@
 title: "معرفی فعالیت‌های انجمن و دورهمی دوستانه"
 lecturer: "انجمن علمی کامپیوتر"
 bio: ""
-github_id: "ceituut"
+githubID: "ceituut"
 date: "2023-03-06 14:00:00"
 location: "سالن آمفی تئاتر"
 ---
