@@ -2,32 +2,12 @@ name: update website content
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
+
+
   workflow_dispatch:
 
 jobs:
-  getprofile:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          ref: main
-      - name: download github avatar
-        run: |
-          echo start to download
-          cd events
-          VAR1="github.com/"
-          usernameLists=$(cat ./* |grep githubID | sed 's/[^"]*"\([^"]*\)".*/\1/')
-          VAR3=".png"
-          VAR4="../images/"
-          for username in $usernameLists
-          do
-          if [ -f "$VAR4$username$VAR3" ] ; then echo "$username profile image has already been downloaded" ; else wget "$VAR1$username$VAR3" -P  ../images ; fi
-          done
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Download github profile image
   triggerUpdate:
     runs-on: ubuntu-latest
     steps:
