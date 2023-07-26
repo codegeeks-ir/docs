@@ -2,7 +2,8 @@ name: get avatar
 
 on:
   push:
-    branches: [main]
+    paths:
+      - collections/events/**
   workflow_dispatch:
 
 jobs:
