@@ -5,4 +5,4 @@ url: "https://codegeeks.ir/requirements/courses"
 image: "https://codegeeks.ir/icones/codegeeks/codegeeks-icon.svg"
 heading: "مستندات درسی"
 ---
-مستندات مربوط به دروس مختلف گروه کامپیوتر
+اینها بخشی از مستندات مربوط به دروس مختلف کامپیوتر هستند که با همت بچه های گروه به صورت مشارکتی جمع آوری شدند؛ امید داریم با مشارکت بیشتر، مجموعه بهتر و کامل تری بسازیم.  
