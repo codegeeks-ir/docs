@@ -1,10 +1,10 @@
 ---
-title: "Cloud Native Computing"
-lecturer: "پوریا مختاری"
-bio: "دانشجوی مهندسی کامپیوتر"
-githubID: "pouriamokhtari"
-date: "2022-01-03 14:00"
-location: "لینک رویداد قبل از برگزاری از کانال تلگرام انجمن اعلام خواهد شد"
+slug: cloud-native-computing
+title: Cloud Native Computing
+lecturer: pouriamokhtari
+date: 2022-01-03 14:00
+location: لینک رویداد قبل از برگزاری از کانال تلگرام انجمن اعلام خواهد شد
+format: events
 ---
 
 - Introduction to Cloud Native Computing

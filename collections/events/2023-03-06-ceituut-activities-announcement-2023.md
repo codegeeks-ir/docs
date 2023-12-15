@@ -1,10 +1,10 @@
 ---
-title: "معرفی فعالیت‌های انجمن و دورهمی دوستانه"
-lecturer: "انجمن علمی کامپیوتر"
-bio: ""
-githubID: "ceituut"
-date: "2023-03-06 14:00"
-location: "سالن آمفی تئاتر"
+slug: association-activities-announcement
+title: معرفی فعالیت‌های انجمن و دورهمی دوستانه
+lecturer: codegeeks-ir
+date: 2023-03-06 14:00
+location: سالن آمفی تئاتر
+format: events
 ---
 
 - سخنرانی مدیریت گروه جناب استاد طهمورث

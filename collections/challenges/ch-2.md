@@ -1,9 +1,10 @@
 ---
-title: "چالش کد 2"
-score: "100"
-date: "2022-03-04 22:30"
+slug: challenge-2
+title: چالش کد ۲
+score: 100
+date: 2022-03-04 22:30
+format: challenges
 ---
-
 
 ## شرح
 

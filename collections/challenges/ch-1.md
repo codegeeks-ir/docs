@@ -1,7 +1,9 @@
 ---
-title: "چالش کد 1"
-score: "100"
-date: "2022-02-26 22:30"
+slug: challenge-1
+title: چالش کد ۱
+score: 100
+date: 2022-02-26 22:30
+format: challenges
 ---
 
 ## شرح
@@ -10,26 +12,26 @@ date: "2022-02-26 22:30"
 
 ورودی و خروجی های نمونه :
 
-ورودی خروجی نمونه 1  
+ورودی خروجی نمونه 1
 
 ```text
-abba   
-dog fish fish dog   
-True   
+abba
+dog fish fish dog
+True
 ```
 
-ورودی خروجی نمونه 2  
+ورودی خروجی نمونه 2
 
 ```text
-abba    
-dog dog fish dog   
-False   
+abba
+dog dog fish dog
+False
 ```
 
 ## جدول نتایج
 
-| شرکت کنندگان | امتیازات |
-| ------------- | --- |
-| mahdibahramih | 100 |
-| mitiebh       | 50  |
-| amirianos     | 50  |
+| شرکت کنندگان  | امتیازات |
+| ------------- | -------- |
+| mahdibahramih | 100      |
+| mitiebh       | 50       |
+| amirianos     | 50       |

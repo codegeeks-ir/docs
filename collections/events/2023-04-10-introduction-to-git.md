@@ -1,10 +1,10 @@
 ---
-title: "آموزش گيت و گيتهاب به زبان ساده"
-lecturer: "محسن فرج‌اللهی"
-bio: "دانشجوی کارشناسی مهندسی کامپيوتر"
-githubID: "mohsenfaraj"
-date: "2023-04-10 14:00"
-location: "طبقه سوم فاز ب، سالن آمفي تئاتر"
+slug: introduction-to-git
+title: آموزش گیت و گیتهاب به زبان ساده
+lecturer: mohsenfaraj
+date: 2023-04-10 14:00
+location: طبقه سوم فاز ب، سالن آمفي تئاتر
+format: events
 ---
 
 - گيت و ورژن کنترل سيستم چيست؟
