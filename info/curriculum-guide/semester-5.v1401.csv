@@ -7,5 +7,11 @@
 6,نرم افزار، شبکه,اصول طراحی کامپایلر,https://codegeeks.ir/requirements/courses/compiler,3,نظری,نظریه زبان‌ها و ماشین‌ها,---
 6,هوش مصنوعی، شبکه,مبانی و کاربردهای هوش مصنوعی,https://codegeeks.ir/requirements/courses/artificial-intelligence,3,نظری,ساختمان داده‌ها و الگوریتم‌ها,طراحی الگوریتم‌ها - طبق مصوبه 980311 گروه
 7,---,بسته تاریخ و تمدن اسلامی,---,2,---,---,---
-# نیمسال پنجم
-# 17 واحد
+
+#title, نیمسال پنجم
+#header, ردیف,درس,منبع,واحد,نوع,پیشنیاز,همنیاز
+#type, number, string, link, number, string, string, string
+#show, true, true, false, true, false, false, false
+#date, 2022-09-26 09:00
+#version, 1401
+#description, نیمسال پنجم − ۱۷ واحد

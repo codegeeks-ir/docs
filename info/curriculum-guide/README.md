@@ -1,7 +1,9 @@
 ---
-title: "چارت | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه"
+slug: curriculum-guide
+title: چارت | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
 description: چارت درسی گروه کامپیوتر دانشگاه صنعتی ارومیه 
-url: "https://codegeeks.ir/about"
-image: "https://codegeeks.ir/icones/codegeeks/codegeeks-icon.svg"
-heading: "چارت درسی"
+heading: چارت درسی
+mainRoute: requirements
+format: page
 ---
+گروه کامپیوتر - ویرایش 1401/07/04

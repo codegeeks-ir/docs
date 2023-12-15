@@ -8,5 +8,11 @@
 6,هوش مصنوعی، شبکه,مبانی هوش محاسباتی,https://codegeeks.ir/requirements/courses/computational-intelligence,3,نظری,طراحی الگوریتم‌ها,---
 7,---,زبان فارسی,---,3,---,---,---
 8,---,کارآموزی,---,1,عملی,روش پژوهش و ارائه + تابستان سال سوم,---
-# نیمسال ششم
-# 19 + 1 واحد
+
+#title, نیمسال ششم
+#header, ردیف,درس,منبع,واحد,نوع,پیشنیاز,همنیاز
+#type, number, string, link, number, string, string, string
+#show, true, true, false, true, false, false, false
+#date, 2022-09-26 09:00
+#version, 1401
+#description, نیمسال ششم − ۱۹ + ۱ واحد

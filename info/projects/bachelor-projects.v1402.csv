@@ -3,4 +3,11 @@ Lacher-Lizard,security,https://github.com/alifrd/Lacher-Lizard
 movielens-recommender-system-javascript,machine-learning,https://github.com/miladnouriezade/movielens-recommender-system-javascript
 PocketWarriors,game,https://github.com/amirihusayn/PocketWarriors
 accounting-software,web,https://github.com/yousefgheibi/accounting-software
-# پروژه‌های پایانی دوره کارشناسی
+
+#title, پروژه‌ها
+#header, پروژه,دسته بندی,لینک
+#type, string, string, link
+#show, true, true, true
+#date, 2022-04-01 21:15
+#version, 1402
+#description, پروژه‌های پایانی دوره کارشناسی

@@ -1,6 +1,7 @@
 استاد,شماره تماس,ایمیل
 اردلان قاسم زاده,04431980272,ardalanghasemzadeh@gmail.com
 امید بلوکی,04431980228,omid.speily@gmail.com
+پرویز رشیدی,04431980208,pr.rashidi@gmail.com
 جعفر طهمورث نژاد,04431980236,"j.tahmores@it.uut.ac.ir, tahmores@gmail.com"
 سارا السادات زمانی,,"SZamani925@gmail.com, S.Zamani@uut.ac.ir"
 فرید احمدی,04431980258,f.ahmadi@uut.ac.ir
@@ -9,7 +10,11 @@
 میر سامان تاجبخش,,mirsaman@gmail.com
 وحید سلوک,04431980258,v.solouk@it.uut.ac.ir
 وحید نصرالهی,04431980241,"v.nasrollahi@uut.ac.ir, vnasrollahi@gmail.com"
-پرویز رشیدی,04431980208,pr.rashidi@gmail.com
-# ارتباط با اساتید
-# دانشکده فناوری های صنعتی
-# گروه کامپیوتر
+
+#title, اساتید
+#header, استاد,شماره تماس,ایمیل
+#type, string, phone, email
+#show, true, false, false
+#date, 2022-04-01 21:15
+#version, 1402
+#description, ارتباط با اساتید - دانشکده فناوری‌های صنعتی - گروه کامپیوتر

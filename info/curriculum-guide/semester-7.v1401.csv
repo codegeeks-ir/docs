@@ -7,5 +7,11 @@
 5,هوش مصنوعی، شبکه,داده کاوی,https://codegeeks.ir/requirements/courses/data-mining,3,نظری,مبانی هوش محاسباتی,---
 6,---,آزمایشگاه ریزپردازنده و زبان اسمبلی,https://codegeeks.ir/requirements/courses/laboratory,1,عملی,ریزپردازنده و زبان اسمبلی - طبق مصوبه 14000304 گروه,---
 7,---,بسته آشنایی مبانی اسلامی,---,2,---,---,---
-# نیمسال هفتم
-# 18 واحد
+
+#title, نیمسال هفتم
+#header, ردیف,درس,منبع,واحد,نوع,پیشنیاز,همنیاز
+#type, number, string, link, number, string, string, string
+#show, true, true, false, true, false, false, false
+#date, 2022-09-26 09:00
+#version, 1401
+#description, نیمسال هفتم − ۱۸ واحد
