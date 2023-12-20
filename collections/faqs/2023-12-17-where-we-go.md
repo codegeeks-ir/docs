@@ -1,5 +1,5 @@
 ---
-slug: where-we-go
+slug: 2023-12-17-where-we-go
 title: انجمن علمی میخواد چه مسیری رو طی کنه؟
 categories: انجمن
 format: faqs

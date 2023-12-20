@@ -1,5 +1,5 @@
 ---
-slug: microservices-and-distributed-systems
+slug: 2022-05-16-microservices-and-distributed-systems
 title: Microservices and Distributed Systems
 lecturer: alirezaalj
 date: 2022-05-16 14:00

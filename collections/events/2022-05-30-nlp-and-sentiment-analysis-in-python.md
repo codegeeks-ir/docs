@@ -1,5 +1,5 @@
 ---
-slug: nlp-and-sentiment-analysis-in-python
+slug: 2022-05-30-nlp-and-sentiment-analysis-in-python
 title: NLP and Sentiment Analysis in Python
 lecturer: matinamani
 date: 2022-05-30 14:00

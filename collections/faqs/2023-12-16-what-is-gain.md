@@ -1,5 +1,5 @@
 ---
-slug: what-is-gain
+slug: 2023-12-16-what-is-gain
 title: فایده فعالیت تو انجمن چیه؟
 categories: انجمن
 format: faqs

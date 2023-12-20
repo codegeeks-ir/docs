@@ -1,5 +1,5 @@
 ---
-slug: state-machine-in-android-with-kotlin
+slug: 2022-04-01-state-machine-in-android-with-kotlin
 title: ماشین حالت در اندروید با کاتلین
 date: 2022-04-01 21:15
 image: ""

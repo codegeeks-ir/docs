@@ -1,7 +1,7 @@
 ---
-slug: cloud-native-computing
+slug: 2022-01-03-cloud-native-computing
 title: Cloud Native Computing
-lecturer: pouriamokhtari
+lecturer: p0m0h3
 date: 2022-01-03 14:00
 location: لینک رویداد قبل از برگزاری از کانال تلگرام انجمن اعلام خواهد شد
 format: events

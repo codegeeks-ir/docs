@@ -1,5 +1,5 @@
 ---
-slug: association-activities-announcement
+slug: 2023-03-06-association-activities-announcement
 title: معرفی فعالیت‌های انجمن و دورهمی دوستانه
 lecturer: codegeeks-ir
 date: 2023-03-06 14:00

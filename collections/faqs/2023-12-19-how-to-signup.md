@@ -1,5 +1,5 @@
 ---
-slug: how-to-signup
+slug: 2023-12-19-how-to-signup
 title: چطور می تونم عضو گیتهاب انجمن بشم؟
 categories: انجمن
 format: faqs

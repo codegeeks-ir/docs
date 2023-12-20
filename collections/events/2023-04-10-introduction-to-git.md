@@ -1,5 +1,5 @@
 ---
-slug: introduction-to-git
+slug: 2023-04-10-introduction-to-git
 title: آموزش گیت و گیتهاب به زبان ساده
 lecturer: mohsenfaraj
 date: 2023-04-10 14:00

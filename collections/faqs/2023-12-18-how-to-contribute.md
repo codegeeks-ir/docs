@@ -1,5 +1,5 @@
 ---
-slug: how-to-contribute
+slug: 2023-12-18-how-to-contribute
 title: چطور می تونم مشارکت کنم؟
 categories: انجمن
 format: faqs

@@ -1,7 +1,7 @@
 ---
-slug: introduction-to-ctf
+slug: 2022-05-09-introduction-to-ctf
 title: آشنایی با مسابقات فتح پرچم
-lecturer: pouriamokhtari
+lecturer: p0m0h3
 date: 2022-05-09 14:00
 location: سالن آمفی تئاتر
 format: events
