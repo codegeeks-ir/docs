@@ -17,9 +17,9 @@ jobs:
       - name: download github avatar
         run: |
           echo start to download
-          cd events
+          cd collections/events
           VAR1="github.com/"
-          usernameLists=$(cat ./* |grep githubID | sed 's/[^"]*"\([^"]*\)".*/\1/')
+          usernameLists=$(cat ./* |grep lecturer | sed 's/[^"]*"\([^"]*\)".*/\1/')
           VAR3=".png"
           VAR4="../images/"
           for username in $usernameLists
