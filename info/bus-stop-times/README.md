@@ -1,6 +1,6 @@
 ---
 slug: bus-stop-times
-title: زمان سرویس‌ها | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
+title: زمان سرویس‌ها
 description: زمان حرکت سرویس‌های دانشگاه صنعتی ارومیه 
 heading: زمان سرویس‌ها
 mainRoute: requirements

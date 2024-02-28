@@ -1,6 +1,6 @@
 بخش,گیتهاب
 برنامه‌نویسی,amirihusayn
-برنامه‌نویسی,sina-pr
+"برنامه‌نویسی,تولید محتوا",sina-pr
 برنامه‌نویسی,kaleemullah786
 برنامه‌نویسی,akansjain
 عملیات توسعه,amirianos
@@ -10,8 +10,10 @@
 امور اجرایی,alibabaei4
 #title, توسعه‌دهندگان
 #header, بخش,گیتهاب
-#type, string, string
+#type, title, github
 #show, true, true
 #date, 2022-04-01 21:15
 #version, 1402
 #description, توسعه‌دهندگان پروژه وب سایت انجمن
+#element, section
+#group, true, false

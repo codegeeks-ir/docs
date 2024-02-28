@@ -1,6 +1,6 @@
 ---
 slug: projects
-title: پروژه‌ها | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
+title: پروژه‌ها
 description: پروژه‌های دانشجویان گروه کامپیوتر
 heading: پروژه‌ها
 format: page

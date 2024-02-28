@@ -9,8 +9,9 @@
 
 #title, ۱۴۰۲
 #header, اعضا,مسولیت
-#type, string, string
+#type, title, title
 #show, true, true
 #date, 2022-12-6
 #version, 1402
 #description, اعضای مرکزی انجمن - سال تحصیلی ۱۴۰۱−۱۴۰۲
+#element, table

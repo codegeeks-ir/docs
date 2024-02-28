@@ -1,17 +1,18 @@
-ردیف,گرایش,درس,منبع,واحد,نوع,پیشنیاز,همنیاز
-1,---,شبکه های کامپیوتری,https://codegeeks.ir/requirements/courses/networks,3,نظری,آمار و احتمال مهندسی + معماری کامپیوتر,سیستم‌های عامل
-2,---,آزمایشگاه سیستم‌های عامل,https://codegeeks.ir/requirements/courses/laboratory,1,عملی,سیستم عامل - طبق مصوبه  14000304 گروه,---
-3,---,جبر خطی کاربردی,---,3,نظری,ریاضی عمومی 2,---
-4,---,طراحی الگوریتم‌ها,https://codegeeks.ir/requirements/courses/algorithm-design,3,نظری,ریاضیات گسسته + ساختمان داده‌ها و الگوریتم‌ها,---
-5,---,روش پژوهش و ارائه,---,2,نظری,زبان تخصصی + نیمسال 5 به بالاتر,---
-6,نرم افزار، شبکه,اصول طراحی کامپایلر,https://codegeeks.ir/requirements/courses/compiler,3,نظری,نظریه زبان‌ها و ماشین‌ها,---
-6,هوش مصنوعی، شبکه,مبانی و کاربردهای هوش مصنوعی,https://codegeeks.ir/requirements/courses/artificial-intelligence,3,نظری,ساختمان داده‌ها و الگوریتم‌ها,طراحی الگوریتم‌ها - طبق مصوبه 980311 گروه
-7,---,بسته تاریخ و تمدن اسلامی,---,2,---,---,---
-
+ردیف,درس,واحد,گرایش,نوع,پیشنیاز,همنیاز,منبع
+1,شبکه های کامپیوتری,3,,نظری,آمار و احتمال مهندسی + معماری کامپیوتر,سیستم‌های عامل,https://codegeeks.ir/requirements/courses/networks
+2,آزمایشگاه سیستم‌های عامل,1,,عملی,سیستم عامل - طبق مصوبه  14000304 گروه,,https://codegeeks.ir/requirements/courses/laboratory
+3,جبر خطی کاربردی,3,,نظری,ریاضی عمومی 2,,
+4,طراحی الگوریتم‌ها,3,,نظری,ریاضیات گسسته + ساختمان داده‌ها و الگوریتم‌ها,,https://codegeeks.ir/requirements/courses/algorithm-design
+5,روش پژوهش و ارائه,2,,نظری,زبان تخصصی + نیمسال 5 به بالاتر,,
+6,اصول طراحی کامپایلر,3,نرم افزار، شبکه,نظری,نظریه زبان‌ها و ماشین‌ها,,https://codegeeks.ir/requirements/courses/compiler
+6,مبانی و کاربردهای هوش مصنوعی,3,هوش مصنوعی، شبکه,نظری,ساختمان داده‌ها و الگوریتم‌ها,طراحی الگوریتم‌ها - طبق مصوبه 980311 گروه,https://codegeeks.ir/requirements/courses/artificial-intelligence
+7,بسته تاریخ و تمدن اسلامی,2,,,,,
 #title, نیمسال پنجم
-#header, ردیف,درس,منبع,واحد,نوع,پیشنیاز,همنیاز
-#type, number, string, link, number, string, string, string
-#show, true, true, false, true, false, false, false
+#header, ردیف,درس,واحد,گرایش,نوع,پیشنیاز,همنیاز,منبع
+#type, integer, title, integer, title, title, title, title, link
+#show, true, true, false, false, false, false, false, false
 #date, 2022-09-26 09:00
 #version, 1401
 #description, نیمسال پنجم − ۱۷ واحد
+#element, rows
+

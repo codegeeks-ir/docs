@@ -7,8 +7,9 @@
 
 #title, ۱۳۹۹
 #header, اعضا
-#type, string
+#type, title
 #show, true
 #date, 2019-3-7
 #version, 1399
 #description, اعضای مرکزی انجمن - سال تحصیلی ۱۳۹۸−۱۳۹۹
+#element, table

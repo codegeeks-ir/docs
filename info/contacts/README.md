@@ -1,6 +1,6 @@
 ---
 slug: contacts
-title: دفترچه تماس | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
+title: دفترچه تماس
 description: راه‌های ارتباطی با اساتید و کارکنان گروه کامپیوتر 
 heading: دفترچه تماس
 mainRoute: requirements

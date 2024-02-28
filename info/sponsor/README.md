@@ -1,6 +1,6 @@
 ---
 slug: sponsor
-title: حمایت از ما | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
+title: حمایت از ما
 description: حمایت از پروژه وب سایت انجمن
 heading: حمایت از ما
 format: page

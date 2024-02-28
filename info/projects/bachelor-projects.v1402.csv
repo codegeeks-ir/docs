@@ -6,8 +6,9 @@ accounting-software,web,https://github.com/yousefgheibi/accounting-software
 
 #title, پروژه‌ها
 #header, پروژه,دسته بندی,لینک
-#type, string, string, link
-#show, true, true, true
+#type, title, title, link
+#show, true, false, false
 #date, 2022-04-01 21:15
 #version, 1402
 #description, پروژه‌های پایانی دوره کارشناسی
+#element, rows

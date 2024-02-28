@@ -13,8 +13,9 @@
 
 #title, اساتید
 #header, استاد,شماره تماس,ایمیل
-#type, string, phone, email
+#type, title, phone, email
 #show, true, false, false
 #date, 2022-04-01 21:15
 #version, 1402
 #description, ارتباط با اساتید - دانشکده فناوری‌های صنعتی - گروه کامپیوتر
+#element, table

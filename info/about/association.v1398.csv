@@ -13,8 +13,9 @@
 
 #title, ۱۳۹۸
 #header, اعضا,گروه
-#type, string, string
+#type, title, title
 #show, true, true
 #date, 2018-3-7
 #version, 1398
 #description, اعضای مرکزی انجمن - سال تحصیلی ۱۳۹۷−۱۳۹۸
+#element, table

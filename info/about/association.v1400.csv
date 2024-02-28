@@ -7,8 +7,9 @@
 
 #title, ۱۴۰۰
 #header, اعضا
-#type, string
+#type, title
 #show, true
 #date, 2020-10-11
 #version, 1400
 #description, اعضای مرکزی انجمن - سال تحصیلی ۱۳۹۹−۱۴۰۰
+#element, table

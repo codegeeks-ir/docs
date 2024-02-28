@@ -1,6 +1,6 @@
 ---
 slug: companions
-title: همراهان | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
+title: همراهان
 description: همراهان
 heading: همراهان
 format: page

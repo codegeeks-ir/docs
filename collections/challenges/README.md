@@ -1,6 +1,6 @@
 ---
 slug: challenges
-title: مسابقات | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
+title: مسابقات
 description: چالش برنامه نویسی
 heading: مسابقات
 format: page

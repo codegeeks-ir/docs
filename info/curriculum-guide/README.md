@@ -1,6 +1,6 @@
 ---
 slug: curriculum-guide
-title: چارت | انجمن علمی کامپیوتر دانشگاه صنعتی ارومیه
+title: چارت
 description: چارت درسی گروه کامپیوتر دانشگاه صنعتی ارومیه 
 heading: چارت درسی
 mainRoute: requirements

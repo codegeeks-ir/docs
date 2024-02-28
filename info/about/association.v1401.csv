@@ -7,8 +7,9 @@
 
 #title, ۱۴۰۱
 #header, اعضا
-#type, string
+#type, title
 #show, true
 #date, 2021-11-20
 #version, 1401
 #description, اعضای مرکزی انجمن - سال تحصیلی ۱۴۰۰−۱۴۰۱
+#element, table

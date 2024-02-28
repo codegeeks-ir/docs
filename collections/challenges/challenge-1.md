@@ -1,7 +1,7 @@
 ---
 slug: challenge-1
 title: چالش کد ۱
-score: 100
+score: 70
 date: 2022-02-26 22:30
 format: challenges
 ---
