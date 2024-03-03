@@ -1,6 +1,6 @@
 ---
 slug: 2024-03-04-deep-learning
-title: دوره یادگیری عمیق UUTDL
+title: دوره یادگیری عمیق UUTDL02
 lecturer: Mohammad-Mahdi1999
 date: 2024-03-04 14:00 +0330
 location: فاز دوم، کلاس B203
